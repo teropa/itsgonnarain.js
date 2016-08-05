@@ -1,7 +1,7 @@
 # It's Gonna Rain
 
 A JavaScript edition of [It's Gonna Rain](https://en.wikipedia.org/wiki/It%27s_Gonna_Rain)
-by Steve Reich, first movement.
+by Steve Reich, first movement, as built in the [JavaScript Systems Music](http://teropa.info/blog/2016/07/28/javascript-systems-music.html) guide.
 
 ## Usage
 
